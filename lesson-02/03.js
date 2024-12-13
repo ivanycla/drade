@@ -1,4 +1,4 @@
-let score;
+let score=0;
 let grade;
 if (score < 50 && score >= 0) {
     grade = 'F';
