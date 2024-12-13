@@ -1,3 +1,5 @@
+let score;
+let grade;
 if (score < 50 && score >= 0) {
     grade = 'F';
 } else if (score < 70 && score >= 50) {
